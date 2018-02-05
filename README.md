@@ -1,7 +1,7 @@
 # SpinNumerica.jl
 Numerical simulations of spin dynamics 
 
-## Syposis
+## Synposis
 SpinNumerica is a project in development. Its main purpose is to provide a simple and efficient environment for
 computation of spin dynamics problems. The user interface is designed to be as close as possible to Malcolm Levitt's 
 SpinDynamica package. SpinDynamica is based on Mathematica, and allows both symbolic and numerical computations.
